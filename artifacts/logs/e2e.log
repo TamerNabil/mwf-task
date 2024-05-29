@@ -1,0 +1,48 @@
+(node:31138) [streamroller-DEP0001] DeprecationWarning: options.daysToKeep is deprecated due to the confusion it causes when used together with file size rolling. Please use options.numBackups instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ Running tests in:
+ - Chrome 125.0.0.0 / Monterey 12
+
+[32m2024-05-29T22:38:28.257 [INFO] [39m- ---- Start Test -------
+
+[32m2024-05-29T22:38:31.444 [INFO] [39m- Choosing Role and Country
+
+[32m2024-05-29T22:38:41.142 [INFO] [39m- Assert Chosen Role and Country in Header
+
+[32m2024-05-29T22:38:41.213 [INFO] [39m- Assert High Salary
+
+[32m2024-05-29T22:38:41.252 [INFO] [39m- ---- End Test -------
+
+ ✓ Salary Insight Tests - Assert The High Salary Value Insight by Role QA Engineer and Country Canada
+[32m2024-05-29T22:38:42.591 [INFO] [39m- ---- Start Test -------
+
+[32m2024-05-29T22:38:43.251 [INFO] [39m- Assert Not Choosing Required fields will get Error Message
+
+[32m2024-05-29T22:38:44.716 [INFO] [39m- ---- End Test -------
+
+ ✓ Salary Insight Tests - Assert Required Field
+[32m2024-05-29T22:38:45.970 [INFO] [39m- ---- Start Test -------
+
+[32m2024-05-29T22:38:46.656 [INFO] [39m- Choosing Role and Country
+
+[32m2024-05-29T22:38:58.302 [INFO] [39m- Assert Alert Message
+
+[32m2024-05-29T22:38:58.336 [INFO] [39m- ---- End Test -------
+
+ ✓ Salary Insight Tests - Assert No Data by Role Test Analyst and Country Singapore
+[32m2024-05-29T22:38:59.502 [INFO] [39m- ---- Start Test -------
+
+[32m2024-05-29T22:39:00.185 [INFO] [39m- Choosing Role and Country
+
+[32m2024-05-29T22:39:11.746 [INFO] [39m- Assert Chosen Role and Country in Header
+
+[32m2024-05-29T22:39:11.834 [INFO] [39m- Try to change the filters
+
+[32m2024-05-29T22:39:14.269 [INFO] [39m- Assert Unlock Model
+
+[32m2024-05-29T22:39:14.774 [INFO] [39m- ---- End Test -------
+
+ ✓ Salary Insight Tests - Assert Unlock Model
+
+
+ 4 passed (52s)
