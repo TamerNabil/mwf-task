@@ -27,10 +27,10 @@ This website offers a tool providing insights into salaries for various position
 
 
 ### Scenarios Implemented
-1-Assert the high salary value insight when you choose role QA and Country Canada
-2-Assert required field messages for role and country 
-3-Assert message “There is not enough data to display yet.” If there are no data to show
-4-Assert that filter usage will show the unlock model to fill first
+1. Assert the high salary value insight when you choose role QA and Country Canada
+2. Assert required field messages for role and country 
+3. Assert message “There is not enough data to display yet.” If there are no data to show
+4. Assert that filter usage will show the unlock model to fill first
 
 ### Framework Implementation Details
 
