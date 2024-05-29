@@ -1,0 +1,32 @@
+{
+    "browsers": "chrome",
+    "reporter": [
+        {
+            "name": "list"
+        },
+        {
+            "name": "html",
+            "output": "artifacts/html/FullReport.html"
+        }
+    ],
+    "screenshots": {
+        "path": "artifacts/screenshots/",
+        "takeOnFails": true,
+        "pathPattern": "${TEST}/${DATE}_${TIME}.png"
+    },
+    "videoPath": "artifacts/videos",
+    "videoOptions": {
+        "singleFile": false,
+        "failedOnly": false,
+        "pathPattern": "${TEST}.mp4"
+    },
+    "skipJsErrors": true,
+    "disablePageCaching": true,
+    "selectorTimeout": 20000,
+    "assertionTimeout": 20000,
+    "pageLoadTimeout": 180000,
+    "ajaxRequestTimeout": 180000,
+    "pageRequestTimeout": 180000,
+    "browserInitTimeout": 180000,
+    "speed": 0.7
+}

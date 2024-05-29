@@ -1,0 +1,125 @@
+[2024-05-29T22:03:23.287] [INFO] default - ---- Start Test -------
+[2024-05-29T22:03:27.334] [INFO] default - Choosing Role and Country
+[2024-05-29T22:03:36.830] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:03:36.907] [INFO] default - Assert High Salary
+[2024-05-29T22:03:36.963] [INFO] default - ---- End Test -------
+[2024-05-29T22:03:38.325] [INFO] default - ---- Start Test -------
+[2024-05-29T22:03:39.137] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:03:40.498] [INFO] default - ---- End Test -------
+[2024-05-29T22:03:41.632] [INFO] default - ---- Start Test -------
+[2024-05-29T22:03:42.482] [INFO] default - Choosing Role and Country
+[2024-05-29T22:03:54.104] [INFO] default - Assert Alert Message
+[2024-05-29T22:03:54.162] [INFO] default - ---- End Test -------
+[2024-05-29T22:03:55.293] [INFO] default - ---- Start Test -------
+[2024-05-29T22:03:56.033] [INFO] default - Choosing Role and Country
+[2024-05-29T22:04:07.526] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:04:07.626] [INFO] default - Try to change the filters
+[2024-05-29T22:04:09.982] [INFO] default - Assert Unlock Model
+[2024-05-29T22:04:10.680] [INFO] default - ---- End Test -------
+[2024-05-29T22:05:13.788] [INFO] default - ---- Start Test -------
+[2024-05-29T22:05:17.158] [INFO] default - Choosing Role and Country
+[2024-05-29T22:05:28.076] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:05:51.709] [INFO] default - ---- End Test -------
+[2024-05-29T22:05:53.097] [INFO] default - ---- Start Test -------
+[2024-05-29T22:05:53.802] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:05:55.163] [INFO] default - ---- End Test -------
+[2024-05-29T22:05:56.670] [INFO] default - ---- Start Test -------
+[2024-05-29T22:05:57.134] [INFO] default - Choosing Role and Country
+[2024-05-29T22:06:08.733] [INFO] default - Assert Alert Message
+[2024-05-29T22:06:08.772] [INFO] default - ---- End Test -------
+[2024-05-29T22:06:10.002] [INFO] default - ---- Start Test -------
+[2024-05-29T22:06:10.633] [INFO] default - Choosing Role and Country
+[2024-05-29T22:06:22.113] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:06:22.197] [INFO] default - Try to change the filters
+[2024-05-29T22:06:24.576] [INFO] default - Assert Unlock Model
+[2024-05-29T22:06:24.998] [INFO] default - ---- End Test -------
+[2024-05-29T22:09:59.943] [INFO] default - ---- Start Test -------
+[2024-05-29T22:10:03.340] [INFO] default - Choosing Role and Country
+[2024-05-29T22:10:13.191] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:10:13.347] [INFO] default - Assert High Salary
+[2024-05-29T22:10:13.460] [INFO] default - ---- End Test -------
+[2024-05-29T22:10:14.821] [INFO] default - ---- Start Test -------
+[2024-05-29T22:10:15.703] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:10:17.113] [INFO] default - ---- End Test -------
+[2024-05-29T22:10:18.383] [INFO] default - ---- Start Test -------
+[2024-05-29T22:10:18.920] [INFO] default - Choosing Role and Country
+[2024-05-29T22:10:30.482] [INFO] default - Assert Alert Message
+[2024-05-29T22:10:30.527] [INFO] default - ---- End Test -------
+[2024-05-29T22:10:31.644] [INFO] default - ---- Start Test -------
+[2024-05-29T22:10:32.214] [INFO] default - Choosing Role and Country
+[2024-05-29T22:10:43.519] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:10:43.610] [INFO] default - Try to change the filters
+[2024-05-29T22:10:45.955] [INFO] default - Assert Unlock Model
+[2024-05-29T22:10:46.356] [INFO] default - ---- End Test -------
+[2024-05-29T22:15:47.554] [INFO] default - ---- Start Test -------
+[2024-05-29T22:15:50.951] [INFO] default - Choosing Role and Country
+[2024-05-29T22:16:00.782] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:16:00.869] [INFO] default - Assert High Salary
+[2024-05-29T22:16:00.932] [INFO] default - ---- End Test -------
+[2024-05-29T22:16:02.208] [INFO] default - ---- Start Test -------
+[2024-05-29T22:16:03.240] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:16:04.640] [INFO] default - ---- End Test -------
+[2024-05-29T22:16:05.759] [INFO] default - ---- Start Test -------
+[2024-05-29T22:16:06.545] [INFO] default - Choosing Role and Country
+[2024-05-29T22:16:18.501] [INFO] default - Assert Alert Message
+[2024-05-29T22:16:18.547] [INFO] default - ---- End Test -------
+[2024-05-29T22:16:19.727] [INFO] default - ---- Start Test -------
+[2024-05-29T22:16:20.562] [INFO] default - Choosing Role and Country
+[2024-05-29T22:16:32.103] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:16:32.200] [INFO] default - Try to change the filters
+[2024-05-29T22:16:34.542] [INFO] default - Assert Unlock Model
+[2024-05-29T22:16:34.862] [INFO] default - ---- End Test -------
+[2024-05-29T22:18:53.147] [INFO] default - ---- Start Test -------
+[2024-05-29T22:18:56.536] [INFO] default - Choosing Role and Country
+[2024-05-29T22:19:05.731] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:19:05.809] [INFO] default - Assert High Salary
+[2024-05-29T22:19:05.851] [INFO] default - ---- End Test -------
+[2024-05-29T22:19:07.346] [INFO] default - ---- Start Test -------
+[2024-05-29T22:19:07.883] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:19:09.224] [INFO] default - ---- End Test -------
+[2024-05-29T22:19:10.453] [INFO] default - ---- Start Test -------
+[2024-05-29T22:19:11.114] [INFO] default - Choosing Role and Country
+[2024-05-29T22:19:23.206] [INFO] default - Assert Alert Message
+[2024-05-29T22:19:23.244] [INFO] default - ---- End Test -------
+[2024-05-29T22:19:24.346] [INFO] default - ---- Start Test -------
+[2024-05-29T22:19:24.993] [INFO] default - Choosing Role and Country
+[2024-05-29T22:19:36.551] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:19:36.630] [INFO] default - Try to change the filters
+[2024-05-29T22:19:39.031] [INFO] default - Assert Unlock Model
+[2024-05-29T22:19:39.553] [INFO] default - ---- End Test -------
+[2024-05-29T22:20:51.638] [INFO] default - ---- Start Test -------
+[2024-05-29T22:20:55.021] [INFO] default - Choosing Role and Country
+[2024-05-29T22:21:04.186] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:21:04.259] [INFO] default - Assert High Salary
+[2024-05-29T22:21:04.296] [INFO] default - ---- End Test -------
+[2024-05-29T22:21:05.627] [INFO] default - ---- Start Test -------
+[2024-05-29T22:21:06.379] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:21:07.729] [INFO] default - ---- End Test -------
+[2024-05-29T22:21:09.640] [INFO] default - ---- Start Test -------
+[2024-05-29T22:21:10.424] [INFO] default - Choosing Role and Country
+[2024-05-29T22:21:22.291] [INFO] default - Assert Alert Message
+[2024-05-29T22:21:22.327] [INFO] default - ---- End Test -------
+[2024-05-29T22:21:23.430] [INFO] default - ---- Start Test -------
+[2024-05-29T22:21:24.164] [INFO] default - Choosing Role and Country
+[2024-05-29T22:21:35.616] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:21:35.707] [INFO] default - Try to change the filters
+[2024-05-29T22:21:38.048] [INFO] default - Assert Unlock Model
+[2024-05-29T22:21:38.565] [INFO] default - ---- End Test -------
+[2024-05-29T22:38:28.257] [INFO] default - ---- Start Test -------
+[2024-05-29T22:38:31.444] [INFO] default - Choosing Role and Country
+[2024-05-29T22:38:41.142] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:38:41.213] [INFO] default - Assert High Salary
+[2024-05-29T22:38:41.252] [INFO] default - ---- End Test -------
+[2024-05-29T22:38:42.591] [INFO] default - ---- Start Test -------
+[2024-05-29T22:38:43.251] [INFO] default - Assert Not Choosing Required fields will get Error Message
+[2024-05-29T22:38:44.716] [INFO] default - ---- End Test -------
+[2024-05-29T22:38:45.970] [INFO] default - ---- Start Test -------
+[2024-05-29T22:38:46.656] [INFO] default - Choosing Role and Country
+[2024-05-29T22:38:58.302] [INFO] default - Assert Alert Message
+[2024-05-29T22:38:58.336] [INFO] default - ---- End Test -------
+[2024-05-29T22:38:59.502] [INFO] default - ---- Start Test -------
+[2024-05-29T22:39:00.185] [INFO] default - Choosing Role and Country
+[2024-05-29T22:39:11.746] [INFO] default - Assert Chosen Role and Country in Header
+[2024-05-29T22:39:11.834] [INFO] default - Try to change the filters
+[2024-05-29T22:39:14.269] [INFO] default - Assert Unlock Model
+[2024-05-29T22:39:14.774] [INFO] default - ---- End Test -------
