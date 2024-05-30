@@ -4,7 +4,17 @@
 
 This website offers a tool providing insights into salaries for various positions in different countries. It's a valuable resource for assessing potential relocation opportunities that i use to give me some insights when someone want to relocte.
 
+### Running the Tests
 
+1. Install Node.js.
+2. Run `npm install` to install dependencies.
+3. Execute `npm run test:e2e` to initiate the end-to-end tests.
+
+### Technology Stack
+
+- **Language**: JavaScript
+- **Framework**: TestCafe
+- **Design Pattern**: Page Object Model (POM)
 
 ### Improvements To be Done
 
@@ -51,18 +61,6 @@ This website offers a tool providing insights into salaries for various position
 1. **Unlock Feature Testing**: Validate each element on the dialog for functionality and validation and over all filters operations opening after unlock.
 2. **Filter Accuracy**: Ensure filters in the salary table provide accurate results.
 3. **UI vs. API Validation**: Verify data consistency between the UI and backend API responses.
-
-### Running the Tests
-
-1. Install Node.js.
-2. Run `npm install` to install dependencies.
-3. Execute `npm run test:e2e` to initiate the end-to-end tests.
-
-### Technology Stack
-
-- **Language**: JavaScript
-- **Framework**: TestCafe
-- **Design Pattern**: Page Object Model (POM)
 
 ================================================================================
 
